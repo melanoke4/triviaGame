@@ -1,0 +1,35 @@
+body { 
+	background-image: url(/assets/images/s-l640.jpg);
+	/* img not working */
+	background-color: pink;
+
+}
+
+h1 {
+	padding: 25px;
+}
+
+.answer,
+#timer {
+	font-weight: 900;
+}
+
+#start {
+	color: black;
+}
+
+.choices {
+	text-align: center;
+	border: 2px black;
+	border-radius: 5%;
+	margin: 0 35%;
+}
+
+.choices:hover {
+	background-color: grey;
+	color: white;
+}
+
+.container {
+	background-color: limegreen;
+}
